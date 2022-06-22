@@ -25,7 +25,8 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 For more information on the technologies that power the Yukki Music Bot, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
 
-
+<p align="center">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Kitaroo/KitaroXYukki"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>
 
 # ⚡️ Getting Started
 
